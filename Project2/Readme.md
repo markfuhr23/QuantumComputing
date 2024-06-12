@@ -1,7 +1,7 @@
 Hi,
 
 I enjoyed this project much more than the first one. I really liked implementing it from scratch and not using qiskit, because of its documentation.
-I am sorry again, that it took me longer than expected, but my schedule in june was just too full.
+I am sorry again, that it took me longer than expected, but my schedule in june was just too full. The report may appear short, but this time there was not a lot to plot or to write and much more time went into actual coding. I sticked a little bit to the described project 2 scope, but did not really follow all the tasks and looked into what interested me.
 
 This time I spend much more commenting and describing my code. It is definitely not perfect, but with a 30% effort and 80% (80%/95% now worth it) success kind of approach when
 cleaning it up I am satisfied.
